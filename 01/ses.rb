@@ -1,6 +1,6 @@
 
 use_bpm 140
-use_sample_pack "/home/premek/zvuk/ses/"
+use_sample_pack "./"
 
 live_loop :c do
   sleep 8
